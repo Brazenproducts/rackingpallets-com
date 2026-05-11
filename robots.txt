@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rackingpallets.com/sitemap.xml
